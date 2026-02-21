@@ -26,6 +26,7 @@ So this tool was built to do exactly that — monitor, filter, check, and explai
 - **CSV logging** — all flagged connections are saved to a CSV file for review
 - **Timestamped reports** — each Mistral analysis is saved as a `.txt` report file
 
+![Network Monitor in Action](connections.png)
 ---
 
 ## 🛠 Requirements
@@ -207,4 +208,5 @@ MIT License — free to use, modify, and share.
 ---
 
 *Built by a curious person who just wanted to know what their PC was doing after a job interview.*
+
 
