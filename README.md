@@ -6,7 +6,7 @@ A lightweight Python tool that monitors all network connections on your Windows 
 
 ## 💡 How It Started
 
-This tool was born out of a simple question — *"After a job interview with screen sharing, and weird new windoes keep popping up, pictures of your face taken, how do I know my PC is safe?"*
+This tool was born out of a simple question — *"After a job interview with screen sharing, weird new windows keep popping up, pictures of your face taken, how do you know my PC is safe?"*
 
 Looking at network connections with tools like GlassWire raised more questions than answers. Unknown domains, raw IP addresses, weird process names — with no easy way to know what was safe and what wasn't.
 
@@ -207,3 +207,4 @@ MIT License — free to use, modify, and share.
 ---
 
 *Built by a curious person who just wanted to know what their PC was doing after a job interview.*
+
